@@ -4,8 +4,17 @@ This repository serves as a personal record of my learning journey. My goal for 
 # Timeline
 2024.05.01 - 2024.07.01  ==  Deadline of the first book - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
-- [ ] Output an Image
-- [ ] The vec3 Class
+- [x] Output an Image
+- [x] The vec3 Class
 - [ ] Rays, a Simple Camera, and Background
 - [ ] Adding a Sphere
+- [ ] Surface Normals and Multiple Objects
+- [ ] Moving Camera Code Into Its Own Class
+- [ ] Antialiasing
+- [ ] Diffuse Materials
+- [ ] Metal
+- [ ] Dielectrics
+- [ ] Positionable Camera
+- [ ] Defocus Blur
+- [ ] Conclusion
 
